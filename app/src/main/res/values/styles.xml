@@ -29,8 +29,24 @@
         <item name="colorAccent">@color/colorAccent</item>
         <item name="colorControlNormal">@color/editTextColorWhite</item>
         <item name="android:colorControlActivated">@color/editTextColorWhite</item>
+    </style>
 
+    <style name="EditTextPrimaryText" parent="TextAppearance.AppCompat">
+        <item name="android:textColorHint">@color/primary_text</item>
+        <item name="android:textSize">@dimen/edittext_textsize_login</item>
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorControlNormal">@color/primary_text</item>
+        <item name="android:colorControlActivated">@color/primary_text</item>
+    </style>
 
+    <style name="EditTextBlack" parent="TextAppearance.AppCompat">
+        <item name="android:textColorHint">@color/editTextColorBlack</item>
+        <item name="android:textSize">@dimen/edittext_textsize_login</item>
+        <item name="android:textColorPrimary">@color/editTextColorBlack</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorControlNormal">@color/editTextColorBlack</item>
+        <item name="android:colorControlActivated">@color/editTextColorBlack</item>
     </style>
 
 </resources>

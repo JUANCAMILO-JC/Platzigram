@@ -5,4 +5,10 @@
     <string name="text_button_login">Login</string>
     <string name="dont_have_account">¿Dont have account?, </string>
     <string name="create_here">crea una aquí</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_confirm_password">Confirmar contraseña</string>
+    <string name="hint_phone">Número celular</string>
+    <string name="text_button_createaccount">Únete</string>
+    <string name="toolbar_tittle_createaccount">Create account</string>
 </resources>
